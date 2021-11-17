@@ -1,10 +1,10 @@
 {
-  "name": "nestjs-multer-extended",
+  "name": "@cosminnechifor/nestjs-multer-extended",
   "version": "1.4.2",
-  "description": "Extended MulterModule for NestJS",
+  "description": "Fork of Extended MulterModule for NestJS",
   "author": "Minsung Kim <jeffminsungkim@gmail.com>",
   "license": "MIT",
-  "url": "https://github.com/jeffminsungkim/nestjs-multer-extended#readme",
+  "url": "https://github.com/cosminnechifor/nestjs-multer-extended#readme",
   "main": "dist/index.js",
   "files": [
     "dist"
